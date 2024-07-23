@@ -1,0 +1,25 @@
+/* .box1 {
+    width: 200px;
+    height: 200px;
+    border: 10px solid black;
+    border-radius: 50%;
+    box-shadow: 5px 7px 10px 12px red, 10px 14px 15px 17px violet, 16px 19px 30px 30px yellow;
+} */
+
+.title {
+    padding: 20px 50px;
+    border: 1px solid red;
+    background-color: pink;
+    color: white;
+    font-size: 70px;
+    width: 500px;
+    box-shadow: 10px 20px 5px 7px black, 20px 30px 10px 14px yellow, 30px 40px 20px 30px blue;
+}
+
+/* .box2 {
+    width: 500px;
+    height: 500px;
+    border-radius: 50%;
+    border: 5px solid black;
+    box-shadow: inset -10px 0px 5px 5px red;
+} */
